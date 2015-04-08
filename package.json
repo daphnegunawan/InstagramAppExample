@@ -1,7 +1,7 @@
 {
   "name": "mywebapp",
   "version": "0.0.1",
-  "author": "Chu Shao",
+  "author": "Daphne Gunawan",
   "scripts": {
     "start": "node app.js"
   },
@@ -14,7 +14,7 @@
     "passport-facebook": "*",
     "passport-twitter": "*",
     "dotenv": "*",
-    "instagram-node-lib": "dotenv"
+    "instagram-node-lib": "*"
   },
   "engines": {
     "node": "0.10.x"
